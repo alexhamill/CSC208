@@ -1,0 +1,1 @@
+ \overleftarrow{x} + \sqrt[c]{w} 
