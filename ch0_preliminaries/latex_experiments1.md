@@ -1,1 +1,1 @@
- \overleftarrow{x} + \sqrt[c]{w} 
+ $\overleftarrow{x} + \sqrt[c]{w}$
