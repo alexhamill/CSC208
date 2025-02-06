@@ -1,10 +1,14 @@
 
 $\int_{x}^{2}$(4x+2) dx=-4x+2
 
-$$
-\Theta  
-\\
-\bigcirc 
+```math
+\Theta
+
+
 \\
 \bigcirc
-$$
+
+
+\\
+\bigcirc
+```
