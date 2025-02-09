@@ -15,16 +15,16 @@ I think that discrete math is math that models things in the real world instead 
 Discrete structures are tools that are used to help see parts of a problem in discrete math.
 
 1. Sets
-   * A collection of numbers.
-   * Unordered.
-   * can be written in many different ways.
-    * {1,2,3,4} is the same as {1,1+1,2+1,3+1}
+ * A collection of numbers.
+ * Unordered.
+ * can be written in many different ways.
+  * {1,2,3,4} is the same as {1,1+1,2+1,3+1}
 2. Functions
-   * rule that assigns each input exactly one output
-   * output is called the image.
-   * domain all inputs.
-   * codomain all valid outputs.
-   * range all real outputs.
+ * rule that assigns each input exactly one output
+ * output is called the image.
+ * domain all inputs.
+ * codomain all valid outputs.
+ * range all real outputs.
    
   $ f: X \to Y$
    * F is the name of the function
