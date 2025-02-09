@@ -32,4 +32,13 @@ Discrete structures are tools that are used to help see parts of a problem in di
     * X is the domain.
     * Y is the codomain.
     * Still need to define function.
+3. Sequences:
+  * Like a set but has a order
+  * Finite has a set amount of numbers
+  * Infinite has a infinite set of numbers
+  * can show function 3 ways:
+     * Tables.
+     * Nth term.
+     * How to get from one term to the next.
+4. 
 
