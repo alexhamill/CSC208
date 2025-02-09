@@ -40,5 +40,11 @@ Discrete structures are tools that are used to help see parts of a problem in di
      * Tables.
      * Nth term.
      * How to get from one term to the next.
-4. 
-
+4. Relations
+  * how numbers are related.
+  * could be =, >, <, or more.
+  * Binary relations are between two numbers.
+  * can be reflexive, symmetric, and transitive or more
+5. Graphs
+  * dots and lines.
+  * can count vertices, lines, edges.
