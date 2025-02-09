@@ -18,7 +18,7 @@ Discrete structures are tools that are used to help see parts of a problem in di
  * A collection of numbers.
  * Unordered.
  * can be written in many different ways.
-  * {1,2,3,4} is the same as {1,1+1,2+1,3+1}
+   * {1,2,3,4} is the same as {1,1+1,2+1,3+1}
 2. Functions
  * rule that assigns each input exactly one output
  * output is called the image.
@@ -27,7 +27,7 @@ Discrete structures are tools that are used to help see parts of a problem in di
  * range all real outputs.
    
   $ f: X \to Y$
-   * F is the name of the function
-   * X is the domain
-   * Y is the codomain
+    * F is the name of the function
+    * X is the domain
+    * Y is the codomain
 
