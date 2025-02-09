@@ -18,7 +18,7 @@ Discrete structures are tools that are used to help see parts of a problem in di
    * A collection of numbers.
    * Unordered.
    * can be written in many different ways.
-    * left\{1,2,3,4  right\} is the same as left\{ 1,1+1,2+1,3+1 right\}$
+    * {1,2,3,4} is the same as {1,1+1,2+1,3+1}
 
 
 
