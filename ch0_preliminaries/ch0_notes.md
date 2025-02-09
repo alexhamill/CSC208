@@ -1,3 +1,4 @@
+
 ## What is discrete math?
 
 I think that discrete math is math that models things in the real world instead of being hugely theoretical. It doesnt use huge numbers that go onto infinity or numbers that get infinitely small like some other field of math.
