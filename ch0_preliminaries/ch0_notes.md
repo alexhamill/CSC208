@@ -9,3 +9,16 @@ I think that discrete math is math that models things in the real world instead 
 2.  Sequences
 3.  Symbolic logic
 4.  Graph logic
+
+## What are discrete structures?
+
+Discrete structures are tools that are used to help see parts of a problem in discrete math.
+
+1. Sets
+   * A collection of numbers.
+   * Unordered.
+   * can be written in many different ways.
+    * $\left\{1,2,3,4  \right\} is the same as \left\{ 1,1+1,2+1,3+1 \right\}$
+
+
+
