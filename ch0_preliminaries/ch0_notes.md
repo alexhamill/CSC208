@@ -27,6 +27,7 @@ Discrete structures are tools that are used to help see parts of a problem in di
  * range all real outputs.
    
   $ f: X \to Y$
+  
   * F is the name of the function
   * X is the domain
   * Y is the codomain
